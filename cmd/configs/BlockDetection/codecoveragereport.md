@@ -52,7 +52,7 @@
 ```
 ------
 >RUN   TestNginxBlock_HasComment
- 
+
 >PASS: TestNginxBlock_HasComment (0.00s)
 
 ```json
@@ -196,10 +196,7 @@
 
 
 ## PASS
-## coverage: 98.0% 
+## coverage: 100.0% 
 of statements in ../../../../super-adventure/...
 
 Process finished with exit code 0
-
-
-
